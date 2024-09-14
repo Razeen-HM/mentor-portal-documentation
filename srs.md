@@ -301,11 +301,15 @@ The EMS will be a web-based application accessible to super admins and employees
 
 ### 6. Future Enhancements
 
+- Eliminate use of LeadSquare
+  
+- Integrate multiple third-party sites into a single, unified web platform
+  
 - Mobile application for on-the-go access
 
 - Integration with third-party HR and payroll systems
 
 - Advanced analytics with machine learning capabilities
 
-- Integrate multiple third-party sites into a single, unified web platform.
-- Eliminate use of LeadSquare.
+
+
